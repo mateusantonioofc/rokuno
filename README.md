@@ -15,12 +15,11 @@
 </p>
 
 > [!NOTE]
-> <sup id="1">[1]</sup> Rokuno é um gerenciador de senhas e criptografia self-host
+> <sup id="1">[1]</sup> Rokuno
 
-### 📦 Utilização Básica 
+### 📦 Techs
 
-- Java 21
-- Spring Boot
+
 
 ### 🔰 Instalação 
 
